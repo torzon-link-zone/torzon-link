@@ -34,3 +34,5 @@ This is for educational purposes only. We do not endorse illegal actions.
 ### Disclaimer:
 
 This is educational information. We don't support any illegal activities.
+
+Update: Fixed broken link, now active
