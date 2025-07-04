@@ -35,4 +35,6 @@ This is for educational purposes only. We do not endorse illegal actions.
 
 This is educational information. We don't support any illegal activities.
 
-Update: Fixed broken link, now active
+
+
+Update:  04.07.2025 04:19:29 Dashboard URLs
