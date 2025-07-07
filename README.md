@@ -37,4 +37,6 @@ This is educational information. We don't support any illegal activities.
 
 
 
-Update:  04.07.2025 04:19:29 Dashboard URLs
+
+
+Update:  07/07/2025 12-08 The link is now reachable, thanks for the fix!
